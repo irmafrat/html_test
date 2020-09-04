@@ -1,6 +1,15 @@
 body {
     max-width: 900px;
     margin: auto;
+    
+    background-color: bisque;
+    background-image: url('https://irmafrat.github.io/html_test/images/dalisatthebeach.jpeg');
+    background-size: 50%;
+}
+
+main{
+    background-color: white;
+    padding: 1em;
 }
 
 img {
