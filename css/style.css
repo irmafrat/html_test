@@ -5,6 +5,8 @@ body {
     background-color: bisque;
     background-image: url('https://irmafrat.github.io/html_test/images/dalisatthebeach.jpeg');
     background-size: 50%;
+    background-blend-mode: multiply;
+    background-color: #555;
 }
 
 main{
